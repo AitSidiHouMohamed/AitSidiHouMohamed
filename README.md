@@ -33,6 +33,6 @@ Notre site propose deux catégories de sneakers :
 
 ## Marques Disponibles
 Nous proposons des produits de trois marques renommées :
-- Jordan
-- Nike
-- Dior
+- [Jordan](https://www.jordan.com)
+- [Nike](https://www.nike.com)
+- [Dior](https://www.dior.com)
