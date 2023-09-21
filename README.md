@@ -1,9 +1,5 @@
 # SneakersStore - Projet
 
-## Travail en Groupe
-- Anonyme
-- Mohamed ASH
-
 ## Test de Connexion
 - **Email :** test@gmail.com
 - **Mot de passe :** test
